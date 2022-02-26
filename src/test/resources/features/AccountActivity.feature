@@ -23,7 +23,7 @@ Feature: Account Activity page
     When the page have the title Account Activity
     Then the user should be on the on the "Show Transactions" table
     And the user should see following columns
-    
+
       | Date        |
       | Description |
       | Deposit     |
